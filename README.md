@@ -16,10 +16,10 @@ Data can be searched using the global search option provided in the application.
 
 ## Application Screenshots
 ![Screenshot_main-screen](https://i.ibb.co/cr1rrjc/main-screen.jpg)
-![Screenshot_add](https://i.ibb.co/cr1rrjc/add.jpg)
-![Screenshot_edit](https://i.ibb.co/cr1rrjc/edit.jpg)
-![Screenshot_delete](https://i.ibb.co/cr1rrjc/delete.jpg)
-![Screenshot_search](https://i.ibb.co/cr1rrjc/search.jpg)
+![Screenshot_add](https://i.ibb.co/nMyn3wn/add-jpg.png)
+![Screenshot_edit](https://i.ibb.co/tL7nzbR/edit-jpg.png)
+![Screenshot_delete](https://i.ibb.co/7KtYk76/delete-jpg.png)
+![Screenshot_search](https://i.ibb.co/Db5Q5YD/search-jpg.png)
 
 
 ## Application Used Framework & Language Details
