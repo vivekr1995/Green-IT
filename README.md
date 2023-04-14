@@ -59,7 +59,7 @@ The Angular CLI takes care of Jasmine and Karma configuration for you. It constr
 1. go to the project directory and run `ng test`.
 
 Screenshot for Angular unit test case
-![Screenshot_angular_test](https://drive.google.com/file/d/1iZw72-nImmma_c2l8JeAw12v9xEGSNpC/view?usp=share_link)
+![Screenshot_angular_test](https://ibb.co/B62Hqtn/angular-test.png)
 
 ### Core PHP Unit Test :
 For PHP unit testing Codeception is being used. Codeception need to install with composer to perform unit testing. Reference for codeception : https://codeception.com/
