@@ -15,7 +15,7 @@ Multiple selection of data can be performed to delete the existing data. Sorting
 Data can be searched using the global search option provided in the application.
 
 ## Application Screenshots
-![Screenshot_main-screen](https://i.ibb.co/cr1rrjc/main-screen.jpg)
+![Screenshot_main-screen](https://i.ibb.co/nn8zXRk/main-screen-jpg.png)
 ![Screenshot_add](https://i.ibb.co/nMyn3wn/add-jpg.png)
 ![Screenshot_edit](https://i.ibb.co/tL7nzbR/edit-jpg.png)
 ![Screenshot_delete](https://i.ibb.co/7KtYk76/delete-jpg.png)
