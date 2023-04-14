@@ -16,10 +16,10 @@ Data can be searched using the global search option provided in the application.
 
 ## Application Screenshots
 ![Screenshot_main-screen](https://i.ibb.co/cr1rrjc/main-screen.jpg)
-![Screenshot_create](https://antotechsolutions.com/project-images/create.jpg)
-![Screenshot_update](https://antotechsolutions.com/project-images/update.jpg)
-![Screenshot_delete](https://antotechsolutions.com/project-images/delete.jpg)
-![Screenshot_search](https://antotechsolutions.com/project-images/advanced-search.jpg)
+![Screenshot_add](https://i.ibb.co/cr1rrjc/add.jpg)
+![Screenshot_edit](https://i.ibb.co/cr1rrjc/edit.jpg)
+![Screenshot_delete](https://i.ibb.co/cr1rrjc/delete.jpg)
+![Screenshot_search](https://i.ibb.co/cr1rrjc/search.jpg)
 
 
 ## Application Used Framework & Language Details
