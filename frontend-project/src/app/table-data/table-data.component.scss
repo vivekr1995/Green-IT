@@ -1,0 +1,85 @@
+p {
+    font-family: Lato;
+}
+table {
+    width: 90%;
+    margin: auto;
+    margin-top: 25px;
+    border: 1px solid #424242;
+}
+th {
+    height: 70px;
+}
+tr th {
+    font-size: 18px;
+    color: white;
+}
+.btn-edit {
+    text-align: center;
+}
+.button-done {
+    color: #6dee6d;
+    font-size: 16px;
+}
+.button-edit {
+    color: #054b5e;
+    font-size: 16px;
+}
+.button-remove {
+    color: #ee7272;
+    font-size: 16px;
+}
+.button-cancel {
+    color: orange;
+    font-size: 16px;
+}
+::ng-deep .mat-form-field-infix {
+    width: 100% !important;
+}
+.form-input {
+    padding-right: 5px;
+}
+.filter {
+    width: 90%;
+    margin: auto;
+    display: table;
+    margin-bottom: -23px;
+    color: black;
+}
+.filter-text {
+    color: red;
+    font-size: large;
+    font-weight: 500;
+    padding-right: 40px !important;
+}
+.mat-row:nth-child(even){
+    background-color: #87CBB9;
+}
+.mat-row:nth-child(odd){
+    background-color: #6fdebc;
+}
+.mat-paginator {
+    width: 90%;
+    margin: auto;
+    background: #69939d;
+}
+.action-column {
+    width: 180px;
+}
+.action-column-align {
+    padding-left: 60px;
+}
+th.mat-header-cell {
+    padding-left: 15px;
+}
+td.mat-cell {
+    padding-left: 15px;
+    border-right: 2px solid #424242;
+    border-bottom-style: none;
+}
+td.mat-cell:first-child {
+    border-left: 1px solid #424242;
+}
+td.mat-cell:last-child {
+    border-right: 1px solid #424242;
+}

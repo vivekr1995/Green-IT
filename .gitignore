@@ -1,0 +1,29 @@
+# Backend ignore
+/backend-project/vendor
+
+# Frontend ignore
+/frontend-project/dist
+/frontend-project/tmp
+/frontend-project/out-tsc
+/frontend-project/bazel-out
+/frontend-project/node_modules
+/frontend-project/npm-debug.log
+/frontend-project/yarn-error.log
+/frontend-project/.idea/
+/frontend-project/.project
+/frontend-project/.classpath
+/frontend-project/.c9/
+/frontend-project/*.launch
+/frontend-project/.settings/
+/frontend-project/*.sublime-workspace
+/frontend-project/.vscode/*
+/frontend-project/.history/*
+/frontend-project/.angular/*
+/frontend-project/.sass-cache/
+/frontend-project/connect.lock
+/frontend-project/coverage
+/frontend-project/libpeerconnection.log
+/frontend-project/testem.log
+/frontend-project/typings
+/frontend-project/.DS_Store
+/frontend-project/Thumbs.db
