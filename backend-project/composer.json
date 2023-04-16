@@ -1,0 +1,29 @@
+{
+    "name": "vivek/backend-project",
+    "description": "php api backend",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.0",
+        "codeception/codeception": "^5.0",
+        "codeception/module-phpbrowser": "*",
+        "codeception/module-asserts": "*",
+        "codeception/phpunit-wrapper": "dev-7.1-abstract-test as 7.9.99"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vivek\\BackendProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vivekr1995",
+            "email": "vivekramesh1821995@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "2.5.0"
+    },
+    "config": {
+        "platform-check": false
+    }
+}
