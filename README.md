@@ -67,4 +67,4 @@ For PHP unit testing Codeception is being used. Codeception need to install with
 1. go to the project directory and run `codecept run`.
 
 Screenshot for Codeception unit test case
-![Screenshot_php_test](https://antotechsolutions.com/project-images/laravel-unit-test.jpg)
+![Screenshot_php_test]()
