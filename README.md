@@ -62,9 +62,9 @@ Screenshot for Angular unit test case
 ![Screenshot_angular_test](https://i.ibb.co/Rv2Sfx2/angular-test-jpg.png)
 
 ### Core PHP Unit Test :
-For PHP unit testing Codeception is being used. Codeception need to install with composer to perform unit testing. Reference for codeception : https://codeception.com/
+For PHP unit testing PHpUnit is being used. PHpUnit need to install with composer to perform unit testing. Reference for PHpUnit : https://phpunit.de/index.html
 
-1. go to the project directory and run `codecept run`.
+1. go to the project directory and run `./vendor/bin/phpunit filepath`.
 
-Screenshot for Codeception unit test case
-![Screenshot_php_test]()
+Screenshot for PHpUnit unit test case
+![Screenshot_php_test](https://i.ibb.co/C5gTpdG/Screenshot-2023-04-19-143713.png)
